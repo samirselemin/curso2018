@@ -1,0 +1,120 @@
+body
+#conteiner{
+		width:100%;
+		height:100vh;
+}
+#banner{
+		background-image:url(https://templated.co/items/demos/retrospect/images/banner.jpg);
+		width:100%;
+		height:100vh;
+		position:fixed;
+		top:0;
+}
+#wall{	
+		width:100%;
+		height:1000px;
+		opacity:0.5;
+}
+header{
+		color:white;
+		height:150px;
+}
+header h1{
+		position:relative;
+		top:20px; 
+		left:35px;
+}
+header span{
+		position:relative;
+		font-size:20px;
+		bottom:40px; 
+		left:1250px;
+}
+#intro{
+		text-align:center;
+
+}
+img{ 
+		width:70px;
+		height:70px;
+}
+h2{
+		font-size:40px;
+		color:white;
+}
+h3{
+		font-size:25px;
+		color:white;
+}
+button{
+		background:#fff;
+		font-size:20px;
+		color:#48C9B0;
+		border-radius:25px;
+		height:45px;
+		position:relative;
+		top:20px;
+		border-color:#48C9B0;
+}
+#desarrolo{
+		background-color:#D0D3D4;
+		width:100%;
+		height:700px;
+		margin:70px;
+		padding:70px;
+
+}
+.art1{
+		background:#FBFCFC;
+		text-align:center;
+		font-size:12px;
+		color:#515A5A;
+		width:550px;
+		height:300px;
+		position:relative;
+		top:200px;
+		left:700px;
+}
+.img1{
+		width:550px; 
+		height:300px;
+		position:relative;
+		top:;
+		bottom:100px;
+		left:150px;
+		display:inline-block;
+}
+.art2{
+		background:#FBFCFC;
+		text-align:center;
+		font-size:12px;
+		color:#515A5A;  
+		width:550px;
+		height:300px;
+		position:relative;
+		left:150px;
+}
+.img2{
+		width:550px;
+		height:300px;
+		position:relative;
+		bottom:300px;
+		left:700px;
+}
+h4{
+		font-size:27px;
+		color:#000;
+}
+p{
+		font-size:20px;
+}
+
+
+
+
+
+
+
+
+
+
