@@ -150,7 +150,7 @@ h5{
 		top:150px;
 }
 .subtitulo1{
-		text-align:center;
+		text-align: center;
 }
 .img3{
 		width:250px;
@@ -164,21 +164,21 @@ h5{
 	height:165px;
 	position:relative;
 	top:400px;
-	right:610px;
+	right:604px;
 }
 .img5{
 	width:250px;
 	height:165px;
 	position:relative;
-	top:196px;
-	left:648px;
+	top:231px;
+	left:654px;
 }
 .img6{
 	width:250px;
 	height:165px;
 	position:relative;
-	top:196px;
-	left:644px;
+	top:231px;
+	left:650px;
 }
 .img7{
 	width:250px;
@@ -190,13 +190,22 @@ h5{
 .img8{
 	width:250px;
 	height:165px;
+	position:relative;
+	top:396px;
+	right:358px;
 
 }
 .img9{
 	width:250px;
 	height:165px;
+	position:relative;
+	top:396px;
+	right:362px;
 }
 .img10{
 	width:250px;
 	height:165px;
+	position:relative;
+	top:227px;
+	left:904px;
 }
